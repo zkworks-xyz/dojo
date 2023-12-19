@@ -1,5 +1,5 @@
 {
-  "name": "minesweeper",
+  "name": "dojo",
   "private": true,
   "scripts": {
     "test": "jest src/test.{js,ts} --watch"
